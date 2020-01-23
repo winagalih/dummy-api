@@ -1,8 +1,11 @@
 {
-    "user": [
+    "data": [
         {
             "id": "1",
-            "nama": "Wina"
+            "statement": "blabla",
+            "createdby": "wina",
+            "createdat": "2020-01-20 20:20:20",
+            "status": "solution"
         }
     ],
     "list": [{
